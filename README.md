@@ -1,2 +1,2 @@
 # testCodeJs
-Espacio para crear codigo de practiva en javascript
+Espacio para crear codigo de practica en javascript
